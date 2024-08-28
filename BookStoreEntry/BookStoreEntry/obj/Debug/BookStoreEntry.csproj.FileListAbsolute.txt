@@ -1,0 +1,12 @@
+C:\Users\DattaGuru\Desktop\28-08-2024\BookStoreEntry\BookStoreEntry\bin\Debug\BookStoreEntry.exe.config
+C:\Users\DattaGuru\Desktop\28-08-2024\BookStoreEntry\BookStoreEntry\bin\Debug\BookStoreEntry.exe
+C:\Users\DattaGuru\Desktop\28-08-2024\BookStoreEntry\BookStoreEntry\bin\Debug\BookStoreEntry.pdb
+C:\Users\DattaGuru\Desktop\28-08-2024\BookStoreEntry\BookStoreEntry\obj\Debug\BookStoreEntry.csproj.AssemblyReference.cache
+C:\Users\DattaGuru\Desktop\28-08-2024\BookStoreEntry\BookStoreEntry\obj\Debug\BookStoreEntry.Properties.Resources.resources
+C:\Users\DattaGuru\Desktop\28-08-2024\BookStoreEntry\BookStoreEntry\obj\Debug\BookStoreEntry.csproj.GenerateResource.cache
+C:\Users\DattaGuru\Desktop\28-08-2024\BookStoreEntry\BookStoreEntry\obj\Debug\BookStoreEntry.csproj.CoreCompileInputs.cache
+C:\Users\DattaGuru\Desktop\28-08-2024\BookStoreEntry\BookStoreEntry\obj\Debug\BookStoreEntry.exe
+C:\Users\DattaGuru\Desktop\28-08-2024\BookStoreEntry\BookStoreEntry\obj\Debug\BookStoreEntry.pdb
+C:\Users\DattaGuru\Desktop\28-08-2024\BookStoreEntry\BookStoreEntry\obj\Debug\BookStoreEntry.LoginForm.resources
+C:\Users\DattaGuru\Desktop\28-08-2024\BookStoreEntry\BookStoreEntry\obj\Debug\BookStoreEntry.RegisterationForm.resources
+C:\Users\DattaGuru\Desktop\28-08-2024\BookStoreEntry\BookStoreEntry\obj\Debug\BookStoreEntry.CatalogForm.resources
